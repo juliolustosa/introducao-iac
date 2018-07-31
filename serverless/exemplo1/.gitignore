@@ -1,0 +1,8 @@
+# Serverless directories
+.serverless
+
+# Removido somente para exemplo
+# bin
+
+# golang vendor (dependencies) directory
+vendor
